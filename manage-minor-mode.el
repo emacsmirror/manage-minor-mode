@@ -1,7 +1,7 @@
 ;;; manage-minor-mode.el --- Manage your minor-modes easily -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2014 by Shingo Fukuyama
-;; Copyright (C) 2020-2024 Shen, Jen-Chieh
+;; Copyright (C) 2020-2026 Shen, Jen-Chieh
 
 ;; Version: 1.1
 ;; Author: Shingo Fukuyama - http://fukuyama.co
